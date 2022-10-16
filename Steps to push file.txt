@@ -1,0 +1,15 @@
+1-> git config --global user.name rahul
+
+2-> git config --global user.email arahul18018@gmail.com
+
+3-> git init
+
+4-> git add .
+
+5-> git commit -m "Initial commit"
+
+6-> git status # to see status
+
+7-> git remote add origin <ssh url>
+
+8-> git push -u origin main
